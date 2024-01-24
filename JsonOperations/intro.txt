@@ -1,0 +1,17 @@
+What is a JSON File?
+-----------------------------------
+JSON stands for JavaScript Object Notation. 
+JSON file contains,JSON Objects with .json file extension.
+
+In this modern era, we have a lot of programming languages.  
+Almost all of us use different web services in our daily life (Eg. Weather report, currency conversion, enquiring Gold rates, cricket scores). 
+
+Our browser is the point of contact, to make the request to the server, receive the response from the server, process the response and render it to the user. 
+A web server may be implemented with any programing language like Java, python etc. 
+Our browser can understand Javascript. So there has to be a common, language-independent data transmission between a web application and a web server.
+
+Why JSON?
+---------------------
+1) JSON is a lightweight data-interchange format
+2) JSON is "self-describing" and easy to understand
+3) JSON is language independent
